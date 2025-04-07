@@ -3,7 +3,7 @@
     <custom>false</custom>
     <tabVisibilities>
         <tab>Catalog_Order__c</tab>
-        <visibility>DefaultOn</visibility>
+        <visibility>DefaultOff</visibility>
     </tabVisibilities>
     <userLicense>Analytics Cloud Integration User</userLicense>
     <userPermissions>
