@@ -1,0 +1,5 @@
+arn:aws:secretsmanager:us-east-1:987654321098:secret:ApiTokenService-x7y8z9
+arn:aws:secretsmanager:eu-central-1:112233445566:secret:ProdDBCredentials-j3k2m1
+arn:aws:secretsmanager:ap-south-1:998877665544:secret:S3AccessKeySecret-a9c8b7
+arn:aws:secretsmanager:us-west-1:556677889900:secret:SlackWebhookSecret-q1w2e3
+arn:aws:secretsmanager:ca-central-1:443322110099:secret:EncryptionKeySecret-r4t5y6
